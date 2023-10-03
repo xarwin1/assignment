@@ -33,9 +33,6 @@ h1 {
     align-items: center;
 
 }
-.child {
-
-}
 
 mark {
     background-color: #A5BE00;
@@ -44,7 +41,6 @@ mark {
 #message {
     height: 800px;
     width: 800px;
-
 }
 .message {
     width: 750px;
